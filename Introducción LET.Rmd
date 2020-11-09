@@ -1,0 +1,26 @@
+---
+title: "Informe LET"
+author: "Jeremías Mora Rubio"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+ En la actualidad, hay un gran número de construcciones de viviendas a lo largo de nuestro país y en las comunas en donde uno vive, cosa que se puede apreciar, generalmente con salir de nuestros hogares y caminar un poco. Uno suele preguntarse a cerca de la razón por la cuál se están consturyendo tantas viviendas, pero la respuesta es clara y es que la población chilena está aumentando considerablemente, así como tambien la cantidad de extranjeros en nuestro país.
+
+
+
+ Pero la pregunta que también puede surgir, es la razón de las diferencias en los precios y las variables que influyen en ella. Ya que de cierta forma, la diferencia antes mencionada, puede permitir determinar valores justos para vender y/o comprar una vivienda y saber determinar si el precio justo. Al poder tener en cuenta las variables que se suelen considerar para determinar los precios, va a permitir estar al tanto de los posibles valores actuales y saber si es el precio que corresponde.
+
+
+
+ Por lo tanto, en el informe se enfocará en desarrollar y responder la duda mencionada antes, ¿Cuál es la razón de las diferencias en los precios de la viviendas?, ¿Qué variables influyen en la determinación de estos precios?. Para responder a estas preguntas, se analizará una base de datos para determinar las variables que influyen en los precios, estimando de forma numérica la importancia de esas variables en la determinación de los valores y dándoles a conocer una forma de estimar el valor posible de una vivienda.
+
+
+
+ Razón por la cual, se presentará  un marco teórico, donde se explicarán los conceptos que se deben conocer para poder comprender el análisis desarrollado, además se mostrará partes importantes del procedimiento realizado para comprender las variables, junto a algunos gráficos y tablas para poder volver mas ilustrativos los desarrollos obtenidos. 
+
